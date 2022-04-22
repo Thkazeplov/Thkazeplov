@@ -2,7 +2,7 @@
 - 👀 I’m interested in studying "python", javascript
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on learning coding, creating something interesting.
-- 📫 How to reach me marster777@outlook.com 
+- 📫 How to reach me marster777@outlook.com, my WhatsApp +7918 724 15 06 
 
 <!---
 Thkazeplov/Thkazeplov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
